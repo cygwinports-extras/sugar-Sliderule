@@ -1,0 +1,5 @@
+NAME="sugar-Sliderule"
+VERSION=25
+RELEASE=1
+SUGAR_TYPE="Honey"
+inherit sugar
